@@ -3,6 +3,8 @@
 
 - 💬 Ask me about **my senior design class.**
 
+- 💬 Check out **my pinned repos for my university projects**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
