@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aaron Smith</h1>
-<h3 align="center">A college graduate looking to learn more.</h3>
+<h3 align="center">A Junior Software Engineer ready to learn</h3>
 
 - 💬 Ask me about **my senior design class.**
 
